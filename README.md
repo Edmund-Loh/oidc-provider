@@ -7,7 +7,7 @@ To run:
 
 1) Fill in index.js with the public and private key values
 
-2) Use this command with ./oidc-provider as the current working directory
+2) Run the application with ./oidc-provider as the current working directory
 ```
 node index.js
 ```
