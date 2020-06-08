@@ -1,7 +1,7 @@
 # oidc-provider
 Experimenting with OIDC
 
-Uses the library from https://www.npmjs.com/package/oidc-provider
+Uses the nodejs library from https://www.npmjs.com/package/oidc-provider
 
 To run: 
 
