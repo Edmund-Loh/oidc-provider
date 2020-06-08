@@ -1,6 +1,8 @@
 # oidc-provider
 Experimenting with OIDC
 
+Uses the library from https://www.npmjs.com/package/oidc-provider
+
 To run: 
 
 1) Fill in index.js with the public and private key values
